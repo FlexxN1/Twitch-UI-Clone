@@ -30,7 +30,7 @@ header .nav__left {
     width: 350px;
 }
 header .nav__left .nav__logo {
-    background-image: url(../assets/icons/logo.png);
+    background-image: url(./logo.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -140,7 +140,7 @@ header .nav__right a {
 }
 header .nav__right .icons__right .icon__right--prime {
     filter: invert(90%) sepia(1%) saturate(171%) hue-rotate(209deg) brightness(109%) contrast(91%);
-    background-image: url(../assets/icons/icons8-calendario-24.png);
+    background-image: url(./icons8-calendario-24.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -150,7 +150,7 @@ header .nav__right .icons__right .icon__right--prime {
 }
 header .nav__right .icons__right .icon__right--notificaciones {
     filter: invert(90%) sepia(1%) saturate(171%) hue-rotate(209deg) brightness(109%) contrast(91%);
-    background-image: url(../assets/icons/icons8-cuento-de-hadas-50.png);
+    background-image: url(./icons8-cuento-de-hadas-50.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -163,7 +163,7 @@ header .nav__right .icons__right .icon__right {
     width: 20px;
     height: 20px;
     background-position: center;
-    background-image: url(../assets/icons/icons8-comentarios-24.png);
+    background-image: url(./icons8-comentarios-24.png);
     filter: invert(90%) sepia(1%) saturate(171%) hue-rotate(209deg) brightness(109%) contrast(91%);
     background-repeat: no-repeat;
     background-size: cover;
@@ -187,7 +187,7 @@ header .nav__right button {
 }
 header .nav__right button .icon__button {
     position: absolute;
-    background-image: url(../assets/icons/icons8-diamante-30.png);
+    background-image: url(./icons8-diamante-30.png);
     filter: invert(90%) sepia(1%) saturate(171%) hue-rotate(209deg) brightness(109%) contrast(91%);
     background-repeat: no-repeat;
     background-size: cover;
@@ -865,7 +865,7 @@ aside::-webkit-scrollbar{
 }
 .aside__title span {
     filter: invert(90%) sepia(1%) saturate(171%) hue-rotate(209deg) brightness(109%) contrast(91%);
-    background-image: url(../assets/icons/icons8-mochila-32.png);
+    background-image: url(./icons8-mochila-32.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1022,6 +1022,10 @@ aside li .señal span {
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
+    -webkit-transform:;
+    -moz-transform:;
+    -ms-transform:;
+    -o-transform:;
 }
 aside .aside__title--mid {
     font-size: 1.2rem;
