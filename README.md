@@ -2,6 +2,9 @@
 
 Es un clon de la UI de la red social Twitch.
 
+## resource
+## [FontAwesome](https://cdnjs.com/libraries/font-awesome)
+
 ## View project 🚀🙋🏻‍♂️
 ## [Deploy](https://flexxn1.github.io/Twitch-UI-Clone/)
 
